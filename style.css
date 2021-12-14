@@ -1,0 +1,44 @@
+body{
+    background: url("../imag/back.jpg");
+    font-family: Tahoma;
+
+
+
+
+}
+.title{
+    text-align: center;
+    color: blueviolet;
+    font-size: 40px;
+
+}
+
+.panai,
+.sepruch,
+.vlados,
+.leha {
+    width: 400px;
+    height: 700px;
+    background-color: white;
+    display: inline-block;
+    margin: 0 auto;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+
+.pacani{
+    width: 100%;
+    padding-left: 18%;
+}
+
+.photo{
+    width: 400px;
+    height: 600px;
+}
+
+h2{
+    text-align: center;
+}
+
+
+
